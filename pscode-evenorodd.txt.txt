@@ -1,0 +1,18 @@
+// Exercise 2: Check if a Number is Even or Odd
+ 
+a%2==0
+
+a%2!=0
+
+number%2==0
+print even number
+
+number%2!=0
+print odd number
+
+user enter the number
+use the modulus operator(%) divide the number with 2
+	if the remainder is 0,then the number is even
+	if the remainder is 1,then the number is odd
+print the result(even or odd) on the user screen
+
